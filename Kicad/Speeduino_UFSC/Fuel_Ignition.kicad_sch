@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "3208529e-4119-4f90-8411-d393ec5f0298")
+	(uuid "3b2cd024-9081-455b-b20a-bbf0b0706a64")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -1306,553 +1306,553 @@
 		)
 	)
 	(junction
-		(at 59.69 52.07)
+		(at 123.19 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0cc45456-fe44-4482-9e97-5f26c07b3f35")
+		(uuid "0c9836bd-9485-4a79-85ae-8dbdb8ba52eb")
 	)
 	(junction
-		(at 115.57 36.83)
+		(at 123.19 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "28528164-8105-4441-8637-90538f7d908e")
+		(uuid "561deaa5-aea7-457d-b939-c5075eecfeac")
 	)
 	(junction
-		(at 60.96 143.51)
+		(at 107.95 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2b8e0e66-58a6-46af-9844-5917a9344cb0")
+		(uuid "5c3166e4-b1f7-4096-9607-ef4f0f896b06")
 	)
 	(junction
-		(at 110.49 140.97)
+		(at 62.23 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5327d921-908a-4b8b-8d93-241d8ccc38f0")
+		(uuid "735f8d70-a690-474d-aade-5b942740f64e")
 	)
 	(junction
-		(at 121.92 140.97)
+		(at 60.96 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "65a0356c-edff-4fa6-a23c-7a9ba6fe2a66")
+		(uuid "7474e01d-ab96-4bba-818d-7a5d27357fcc")
 	)
 	(junction
-		(at 121.92 133.35)
+		(at 116.84 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e4b70372-10a7-4d6b-b708-b9dce266b11f")
+		(uuid "b8c52508-bcb8-446f-9c23-6b78fc71eb9b")
 	)
 	(junction
-		(at 106.68 149.86)
+		(at 107.95 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ea8c4f35-75b7-4fef-ae99-a59ac52a2cb9")
+		(uuid "d7172a33-42c7-4643-af09-b2da004f2e50")
 	)
 	(junction
-		(at 106.68 129.54)
+		(at 111.76 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fbea8968-a50a-4d0b-894a-76deb6d667f5")
+		(uuid "e7206f68-c284-478e-9a25-afdf60616eb7")
 	)
 	(junction
-		(at 60.96 138.43)
+		(at 62.23 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ff0e0efe-368d-4c0e-8ac6-5ed091e8bc87")
+		(uuid "e9fed0f4-eead-4b47-8dd4-5d81407ab6d0")
 	)
 	(wire
 		(pts
-			(xy 53.34 138.43) (xy 60.96 138.43)
+			(xy 107.95 148.59) (xy 107.95 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "011ef76e-c1ed-4380-87e3-ad841d5563bf")
+		(uuid "0406ae8b-d3a9-40a1-89cc-2ff8d4106347")
 	)
 	(wire
 		(pts
-			(xy 71.12 143.51) (xy 74.93 143.51)
+			(xy 72.39 137.16) (xy 76.2 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0e7f09e7-ced8-4acc-a094-56d59b27d6f1")
+		(uuid "06221d33-9921-46b1-aef9-5b633943415c")
 	)
 	(wire
 		(pts
-			(xy 104.14 156.21) (xy 106.68 156.21)
+			(xy 62.23 137.16) (xy 64.77 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1b2a04f4-cf19-4b39-b0c4-797050c9a6dc")
+		(uuid "142fe4f2-d851-4c2a-98e2-db57a5328ef0")
 	)
 	(wire
 		(pts
-			(xy 121.92 133.35) (xy 110.49 133.35)
+			(xy 107.95 142.24) (xy 100.33 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1d5381c4-2873-4e0d-9e54-8e2f7be27292")
+		(uuid "14690741-af11-4c04-808a-6ead155098fa")
 	)
 	(wire
 		(pts
-			(xy 106.68 129.54) (xy 106.68 138.43)
+			(xy 107.95 128.27) (xy 107.95 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "22253740-2387-4f57-a2a4-41337cf11664")
+		(uuid "16929252-e760-4593-905c-0fe4ca0251a2")
 	)
 	(wire
 		(pts
-			(xy 97.79 36.83) (xy 101.6 36.83)
+			(xy 120.65 35.56) (xy 116.84 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "22bcd754-da34-4fe9-b90f-80f762fec707")
+		(uuid "187534d6-8a89-4a34-b7df-bb93b8366f5e")
 	)
 	(wire
 		(pts
-			(xy 59.69 52.07) (xy 62.23 52.07)
+			(xy 60.96 41.91) (xy 60.96 40.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2539af62-18e6-4181-afcd-a27571e037c7")
+		(uuid "1b1a27b6-011b-4b49-94c1-a72cfcc9c1e5")
 	)
 	(wire
 		(pts
-			(xy 52.07 52.07) (xy 59.69 52.07)
+			(xy 62.23 135.89) (xy 62.23 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "27bcf1bd-068d-4a63-b785-446d3a485b88")
+		(uuid "392ef71c-3701-45e0-bf8b-32dd0d7fd81b")
 	)
 	(wire
 		(pts
-			(xy 121.92 140.97) (xy 110.49 140.97)
+			(xy 76.2 139.7) (xy 41.91 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2bb18ea6-009f-4312-9ffe-65ff142acf6c")
+		(uuid "3c47963d-b8d1-4c3d-a870-3ab197e8e53d")
 	)
 	(wire
 		(pts
-			(xy 93.98 156.21) (xy 96.52 156.21)
+			(xy 85.09 120.65) (xy 87.63 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "32a7a7e1-f053-4dc0-8a31-e742c20abe57")
+		(uuid "3d65d2ec-094e-4b8b-8282-99ae8f881971")
 	)
 	(wire
 		(pts
-			(xy 74.93 140.97) (xy 40.64 140.97)
+			(xy 109.22 148.59) (xy 107.95 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "34989ed2-5c5b-4680-aaa4-7ed9a7868016")
+		(uuid "466b9077-83a8-4b7f-9349-4fe29120301d")
 	)
 	(wire
 		(pts
-			(xy 107.95 129.54) (xy 106.68 129.54)
+			(xy 53.34 50.8) (xy 60.96 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "39b1ee95-53b4-4803-914d-b89597417308")
+		(uuid "4a72b938-449c-45e2-ae61-f40bace4f1e3")
 	)
 	(wire
 		(pts
-			(xy 60.96 143.51) (xy 60.96 144.78)
+			(xy 60.96 49.53) (xy 60.96 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "44bb3d48-2a56-4f3b-854b-f0ce80b3a8b6")
+		(uuid "4f455e07-2148-4cbc-b0b4-6e1c33b8b024")
 	)
 	(wire
 		(pts
-			(xy 60.96 137.16) (xy 60.96 138.43)
+			(xy 82.55 45.72) (xy 116.84 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "499e5248-78e7-4b9b-a1d5-dc2e148d1e83")
+		(uuid "525fc9c3-3260-4ff5-909e-d83569b318a7")
 	)
 	(wire
 		(pts
-			(xy 63.5 143.51) (xy 60.96 143.51)
+			(xy 116.84 45.72) (xy 116.84 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5ec55cae-2b4d-4995-b7c2-79180df727a9")
+		(uuid "5dd1e5b4-4155-4bd8-acab-5a482e9ac845")
 	)
 	(wire
 		(pts
-			(xy 69.85 52.07) (xy 73.66 52.07)
+			(xy 123.19 139.7) (xy 111.76 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6727e851-4fe0-41e2-ad28-51182e0c847a")
+		(uuid "5eed6f39-d420-4892-bfcb-f9f08ab5c7c1")
 	)
 	(wire
 		(pts
-			(xy 81.28 46.99) (xy 115.57 46.99)
+			(xy 64.77 142.24) (xy 62.23 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "67a8f5f4-7bbd-4c77-831b-3874c8b095b5")
+		(uuid "5fae9992-a5f1-4c7a-9641-aa644f3d31dd")
 	)
 	(wire
 		(pts
-			(xy 60.96 129.54) (xy 60.96 128.27)
+			(xy 123.19 132.08) (xy 111.76 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6ba14310-ed52-41ea-88dd-1eb6e304472d")
+		(uuid "61465657-a472-4380-93b0-cba3c8670a34")
 	)
 	(wire
 		(pts
-			(xy 106.68 156.21) (xy 106.68 149.86)
+			(xy 85.09 154.94) (xy 87.63 154.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6e801049-7d64-4751-9f75-dead5e2bf2cd")
+		(uuid "64384bdd-425a-4bdb-b1ba-42d072ff3841")
 	)
 	(wire
 		(pts
-			(xy 59.69 43.18) (xy 59.69 41.91)
+			(xy 54.61 142.24) (xy 62.23 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "702dad40-5c48-4463-8cb1-ea80fb8dba1a")
+		(uuid "6d84ac64-44f2-4ebb-9802-d16594ee9687")
 	)
 	(wire
 		(pts
-			(xy 71.12 138.43) (xy 74.93 138.43)
+			(xy 105.41 120.65) (xy 107.95 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "71c1c7ce-bc86-41b9-956f-eab89ff64d7d")
+		(uuid "6f78c493-b791-4c5e-a705-36a65e28e0c5")
 	)
 	(wire
 		(pts
-			(xy 93.98 121.92) (xy 96.52 121.92)
+			(xy 125.73 132.08) (xy 123.19 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7f0142d8-6f82-4b30-9b77-eee1388fbb37")
+		(uuid "753a7cbb-85a7-4081-9f5b-0f68a7e534a2")
 	)
 	(wire
 		(pts
-			(xy 106.68 149.86) (xy 106.68 143.51)
+			(xy 60.96 50.8) (xy 63.5 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8ccb33ea-2a03-4549-a220-cc7e1b836b32")
+		(uuid "75cc7586-6600-4c80-afda-7566826c2dc7")
 	)
 	(wire
 		(pts
-			(xy 60.96 138.43) (xy 63.5 138.43)
+			(xy 99.06 35.56) (xy 102.87 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "900a1f31-3b1c-4b92-a447-dc71f6991420")
+		(uuid "891c1221-4de5-446b-b402-9985247d011e")
 	)
 	(wire
 		(pts
-			(xy 106.68 138.43) (xy 99.06 138.43)
+			(xy 95.25 154.94) (xy 97.79 154.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9436859c-b1cc-4d18-8b29-cf21a2cdc357")
+		(uuid "8e0c06ab-c9e3-432d-ad4a-7a15ae622990")
 	)
 	(wire
 		(pts
-			(xy 87.63 36.83) (xy 90.17 36.83)
+			(xy 111.76 139.7) (xy 100.33 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "94f45768-3a9e-42d1-82ed-5a7a8e9f4603")
+		(uuid "9273e251-48bc-4466-9ddf-06f44d1d581e")
 	)
 	(wire
 		(pts
-			(xy 83.82 156.21) (xy 86.36 156.21)
+			(xy 82.55 55.88) (xy 86.36 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9b38401f-b681-4fb2-b6a9-95f2b6b17f36")
+		(uuid "953537dc-c397-4cae-b514-b67fc6596c64")
 	)
 	(wire
 		(pts
-			(xy 106.68 143.51) (xy 99.06 143.51)
+			(xy 62.23 152.4) (xy 62.23 151.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a247b1e5-ae70-475f-abb2-c81acc46b399")
+		(uuid "991ad9c3-f83c-48db-9a42-4a7b631ff3b0")
 	)
 	(wire
 		(pts
-			(xy 104.14 121.92) (xy 106.68 121.92)
+			(xy 71.12 50.8) (xy 74.93 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a561ab9e-5023-4dd3-bbab-e7332eb3b3c8")
+		(uuid "9b526f08-0d0a-4173-baca-0b6c481d8347")
 	)
 	(wire
 		(pts
-			(xy 124.46 140.97) (xy 121.92 140.97)
+			(xy 105.41 154.94) (xy 107.95 154.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b8de0d52-4437-42f7-8dc1-54eec482a43f")
+		(uuid "a1db0504-a951-49fc-8b30-0fba2ff3398a")
 	)
 	(wire
 		(pts
-			(xy 115.57 46.99) (xy 115.57 36.83)
+			(xy 107.95 154.94) (xy 107.95 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ba63a3e0-2bf6-4f7f-9681-815d7f8d7e8a")
+		(uuid "a77df511-2e10-47ff-bcd7-2d75b741c26a")
 	)
 	(wire
 		(pts
-			(xy 81.28 57.15) (xy 85.09 57.15)
+			(xy 54.61 137.16) (xy 62.23 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ca076bf1-13fb-40ef-b8c8-ac152c0a7fd7")
+		(uuid "bc7af7db-8aac-4f2d-9fd2-36a546490e27")
 	)
 	(wire
 		(pts
-			(xy 110.49 140.97) (xy 99.06 140.97)
+			(xy 78.74 35.56) (xy 81.28 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cbb18f33-2eb7-4f15-8758-7312fbbfb8c6")
+		(uuid "cc80f2ff-43e5-4720-9b2b-4be5101baa8e")
 	)
 	(wire
 		(pts
-			(xy 119.38 36.83) (xy 115.57 36.83)
+			(xy 109.22 128.27) (xy 107.95 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1905ddf-ab39-40c1-adf4-8245f04d5c3a")
+		(uuid "d1c23bf4-53af-4c1a-8c32-d32378bee9c8")
 	)
 	(wire
 		(pts
-			(xy 59.69 50.8) (xy 59.69 52.07)
+			(xy 95.25 120.65) (xy 97.79 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d6ed4a53-3660-4c92-83aa-dc20a2c2b8e6")
+		(uuid "d2a4d5ae-7c78-48b4-813c-31db9e137bef")
 	)
 	(wire
 		(pts
-			(xy 109.22 36.83) (xy 115.57 36.83)
+			(xy 62.23 128.27) (xy 62.23 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e038a603-37e2-4f3c-85f5-d2d46ccfc3ab")
+		(uuid "dec78de4-ab4c-4cfa-8bea-32fe8dd04af3")
 	)
 	(wire
 		(pts
-			(xy 83.82 121.92) (xy 86.36 121.92)
+			(xy 125.73 139.7) (xy 123.19 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e402e2fb-ed40-4d6e-86d4-0d6164e4f8c7")
+		(uuid "e2149fa8-f38f-4307-9736-a7e2a1a0ec93")
 	)
 	(wire
 		(pts
-			(xy 53.34 143.51) (xy 60.96 143.51)
+			(xy 88.9 35.56) (xy 91.44 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e45d0888-8a0c-4b14-bb48-b935e2c9d591")
+		(uuid "e30e2cd9-4556-4fbf-abe5-333a20740f3e")
 	)
 	(wire
 		(pts
-			(xy 77.47 36.83) (xy 80.01 36.83)
+			(xy 107.95 137.16) (xy 100.33 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f0e113b2-aa69-4bc0-8c04-dfec6371477f")
+		(uuid "e52adc86-59cd-4c7b-832e-49a3ca3b92d6")
 	)
 	(wire
 		(pts
-			(xy 60.96 153.67) (xy 60.96 152.4)
+			(xy 107.95 120.65) (xy 107.95 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f200f811-3e9b-4fdd-bba5-54478425e2a6")
+		(uuid "e57e4a13-1074-48d2-9053-66b0c541ab21")
 	)
 	(wire
 		(pts
-			(xy 107.95 149.86) (xy 106.68 149.86)
+			(xy 62.23 142.24) (xy 62.23 143.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f52ad7c6-029b-41ab-9568-c3ea1ebe0a1a")
+		(uuid "ed7157ac-6e30-454e-b73c-7582b6d090fd")
 	)
 	(wire
 		(pts
-			(xy 124.46 133.35) (xy 121.92 133.35)
+			(xy 72.39 142.24) (xy 76.2 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f8e4a17c-7068-46e5-a3b7-72b585cb64ba")
+		(uuid "f1103ea9-4960-415e-8fb6-9cebe49937a6")
 	)
 	(wire
 		(pts
-			(xy 106.68 121.92) (xy 106.68 129.54)
+			(xy 110.49 35.56) (xy 116.84 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fc640eb0-9963-4a4c-9f3c-1dcd9fe3478b")
-	)
-	(text "We use just 1 injector driver for the demonstration"
-		(exclude_from_sim no)
-		(at 205.232 42.164 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "7baa7c15-12a1-4edc-a763-54577ea21d24")
-	)
-	(text "Injector Driver 1"
-		(exclude_from_sim no)
-		(at 73.66 26.67 0)
-		(effects
-			(font
-				(size 2.2606 2.2606)
-			)
-			(justify left bottom)
-		)
-		(uuid "8831db4f-c0d4-40a9-ab6c-a9f8ddbccf40")
+		(uuid "f421bc0e-a2d4-434a-b0d6-25771052b82c")
 	)
 	(text "Ignition Driver 1"
 		(exclude_from_sim no)
-		(at 76.2 111.76 0)
+		(at 77.47 110.49 0)
 		(effects
 			(font
 				(size 2.2606 2.2606)
 			)
 			(justify left bottom)
 		)
-		(uuid "bcaecf0b-98a1-4422-98a2-a99ed727af56")
+		(uuid "0a5f3816-bdc7-45f9-aa45-a0d7da1b9b3b")
 	)
-	(text "Driver voltage = VDD"
+	(text "We use just 1 injector driver for the demonstration"
 		(exclude_from_sim no)
-		(at 208.788 145.542 0)
+		(at 206.502 40.894 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 		)
-		(uuid "c388f316-7f64-497b-aaf8-461a5b62e4e9")
+		(uuid "7a8067dc-afc1-48f4-965a-5b3f2b195686")
 	)
 	(text "We use just 1 ignition driver for the demonstration"
 		(exclude_from_sim no)
-		(at 205.74 138.176 0)
+		(at 207.01 136.906 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 		)
-		(uuid "c585c1d9-80ce-4cb4-80bb-3a17db0ae045")
+		(uuid "d5eae968-2471-43d6-8098-560e76528d15")
 	)
-	(global_label "12V-SW"
+	(text "Injector Driver 1"
+		(exclude_from_sim no)
+		(at 74.93 25.4 0)
+		(effects
+			(font
+				(size 2.2606 2.2606)
+			)
+			(justify left bottom)
+		)
+		(uuid "f794f668-d656-4aae-9295-7a7632f9ead7")
+	)
+	(text "Driver voltage = VDD"
+		(exclude_from_sim no)
+		(at 210.058 144.272 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "f9aad404-bddc-4abf-9ff1-cf2a0e0ef2bb")
+	)
+	(global_label "IGN-1-OUT"
 		(shape input)
-		(at 77.47 36.83 180)
+		(at 109.22 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "12922b06-23a9-4b8d-b484-4f2780af6d97")
+		(uuid "0e450bcb-07ef-45e0-b24d-f87a5dba95fd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.47 36.83 0)
+			(at 109.22 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1863,16 +1863,16 @@
 	)
 	(global_label "MCU-D8"
 		(shape input)
-		(at 52.07 52.07 180)
+		(at 53.34 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "2325d37b-96b2-440b-a75b-a8552a300e6f")
+		(uuid "54f98548-c5cf-4e97-9c46-806bb23a6d24")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.07 52.07 0)
+			(at 53.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1881,58 +1881,18 @@
 			)
 		)
 	)
-	(global_label "IGN-1-OUT"
+	(global_label "12V-SW"
 		(shape input)
-		(at 107.95 149.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2c6c1b08-dc5f-4fa7-bb42-fbab5e3fc848")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.95 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MCU-D38"
-		(shape input)
-		(at 53.34 138.43 180)
+		(at 78.74 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "83eab160-2aa7-416c-b59a-5209dbe24952")
+		(uuid "8b8ef772-e33b-4bfb-ba38-3f2cfbb9a4d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.34 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IGN-2-OUT"
-		(shape input)
-		(at 107.95 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bbaeb1f2-8b91-482d-9b8a-ea7a2a2a7ac9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.95 129.54 0)
+			(at 78.74 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1943,16 +1903,16 @@
 	)
 	(global_label "MCU-D40"
 		(shape input)
-		(at 53.34 143.51 180)
+		(at 54.61 142.24 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "e11b1726-6338-45d1-8dfd-9b54ed98d8b7")
+		(uuid "9b24bcda-fada-48cb-9d54-c4b2ff0576a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.34 143.51 0)
+			(at 54.61 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1963,16 +1923,16 @@
 	)
 	(global_label "INJ-1-OUT"
 		(shape input)
-		(at 119.38 36.83 0)
+		(at 120.65 35.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e560c048-992c-47d3-b1ea-683a84567ac4")
+		(uuid "e8e9d184-8846-4fec-9087-5a5035fe4edd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.38 36.83 0)
+			(at 120.65 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1981,545 +1941,57 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "power:GND")
-		(at 83.82 121.92 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "01c75f40-8ed2-4040-84b3-2f55f5d950dc")
-		(property "Reference" "#PWR08"
-			(at 77.47 121.92 0)
+	(global_label "IGN-2-OUT"
+		(shape input)
+		(at 109.22 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eceb1e08-81af-47ba-bfa3-e107b5decdf5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.22 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 80.5688 122.047 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 83.82 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 83.82 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 83.82 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7632273d-521d-481c-93cf-67dc39616f31")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "#PWR08")
-					(unit 1)
-				)
 			)
 		)
 	)
-	(symbol
-		(lib_id "power:GND")
-		(at 60.96 128.27 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "124438a4-732e-4100-bfa6-7b40fdf6925d")
-		(property "Reference" "#PWR06"
-			(at 60.96 121.92 0)
+	(global_label "MCU-D38"
+		(shape input)
+		(at 54.61 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f30790c5-d1d8-48cf-94a3-72110ad3f2af")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.61 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 60.833 123.8758 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 60.96 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "521619d9-bf2d-48d6-bd2f-32c164ed1582")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "IC_Automotive:TC4424A")
-		(at 102.87 168.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1303c8ed-b8d2-4a1b-873a-56371180b292")
-		(property "Reference" "U1"
-			(at 86.995 127.889 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TC4424A"
-			(at 86.995 130.2004 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 92.71 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 102.87 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "TC4424AVPA-ND"
-			(at 102.87 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Microchip"
-			(at 102.87 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TC4424AVPA"
-			(at 102.87 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/microchip-technology/TC4424AVPA/TC4424AVPA-ND/1098910"
-			(at 102.87 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d29a3667-b246-4ba4-b060-23d45400521d")
-		)
-		(pin "1"
-			(uuid "82a0672f-5e7d-4670-83da-a608e6150584")
-		)
-		(pin "3"
-			(uuid "067fbf3c-63a0-4e22-9a0a-136bfe7aed9e")
-		)
-		(pin "6"
-			(uuid "be135898-6068-40ac-ad36-ed3b07adf308")
-		)
-		(pin "5"
-			(uuid "80a7262a-fbcd-4807-981d-356dd1e239c2")
-		)
-		(pin "4"
-			(uuid "9946a8ba-2ba8-453e-b8a2-95245782a5fa")
-		)
-		(pin "7"
-			(uuid "aaac5563-76b0-42a2-808c-6154fc5ecd71")
-		)
-		(pin "8"
-			(uuid "128bfd3e-bfb3-4a04-aeb4-888ab664339a")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "U1")
-					(unit 1)
-				)
 			)
 		)
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 60.96 133.35 180)
+		(at 68.58 142.24 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "1f7e8d7c-e27a-4568-bbf2-60e4bf65723e")
-		(property "Reference" "R3"
-			(at 57.15 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100k"
-			(at 54.61 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 62.738 133.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "BC3240CT-ND"
-			(at 124.46 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 124.46 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MBA02040C1003FCT00"
-			(at 124.46 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C1003FCT00/BC3240CT-ND/6138743"
-			(at 124.46 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0359ef23-a5a5-45b6-8d80-c1cd78824f4e")
-		)
-		(pin "2"
-			(uuid "57f48d0c-66e7-4795-9e10-f3898786c2de")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 85.09 57.15 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2abfd5de-3acd-4494-9761-e094dc88b20f")
-		(property "Reference" "#PWR010"
-			(at 91.44 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 88.3412 57.023 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 85.09 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c2254306-687c-422b-b5f7-3c4b6cb87c3e")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 59.69 46.99 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3b9107b1-5aed-4830-8662-0e29e588ad5d")
-		(property "Reference" "R1"
-			(at 55.88 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100k"
-			(at 53.34 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 61.468 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.69 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 59.69 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "BC3240CT-ND"
-			(at 121.92 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 121.92 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MBA02040C1003FCT00"
-			(at 121.92 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C1003FCT00/BC3240CT-ND/6138743"
-			(at 121.92 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d97bfe95-9a9e-43cd-ab0f-82c29b9bcfd8")
-		)
-		(pin "2"
-			(uuid "d379437f-b456-43d0-98de-a3d540f3cec9")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 67.31 143.51 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "46c6ff0e-d0a9-4674-a8be-e0bdb42b8513")
-		(property "Reference" "R8"
-			(at 67.31 148.59 90)
+		(uuid "100fdcec-160d-477a-8aa6-2b2455734b16")
+		(property "Reference" "R6"
+			(at 68.58 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2527,7 +1999,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 67.31 146.05 90)
+			(at 68.58 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2535,7 +2007,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 67.31 141.732 90)
+			(at 68.58 140.462 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2544,7 +2016,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 143.51 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2553,7 +2025,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 143.51 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2562,7 +2034,7 @@
 			)
 		)
 		(property "Digikey Part Number" "BC1.00KXCT-ND"
-			(at -73.66 73.66 0)
+			(at -72.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2571,7 +2043,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at -73.66 73.66 0)
+			(at -72.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2580,7 +2052,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "MBA02040C1001FRP00"
-			(at -73.66 73.66 0)
+			(at -72.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2589,7 +2061,7 @@
 			)
 		)
 		(property "URL" ""
-			(at -73.66 73.66 0)
+			(at -72.39 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2598,47 +2070,49 @@
 			)
 		)
 		(pin "1"
-			(uuid "1e9d526d-5399-40e7-b729-0a37d38142dd")
+			(uuid "5c4496e8-e4c7-4ebd-ae2d-6a58e97d215d")
 		)
 		(pin "2"
-			(uuid "44321db5-5164-4572-87b6-e865a8f664c7")
+			(uuid "ecc64c59-aeae-4572-801e-f5539de2b3d8")
 		)
 		(instances
 			(project "Speeduino_UFSC"
 				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "R8")
+					(reference "R6")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 100.33 121.92 270)
+		(lib_id "Device:Q_NMOS_GDS")
+		(at 80.01 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "4c0074a6-46d3-41d0-9f33-df80e9cbafad")
-		(property "Reference" "R11"
-			(at 100.33 116.6622 90)
+		(uuid "1621a540-bfc1-4295-8e17-9d19791ae467")
+		(property "Reference" "Q1"
+			(at 85.1916 49.6316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "2.4k"
-			(at 100.33 118.9736 90)
+		(property "Value" "Q_NMOS_GDS"
+			(at 85.1916 51.943 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 100.33 120.142 90)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+			(at 85.09 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2647,7 +2121,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 121.92 0)
+			(at 80.01 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2656,7 +2130,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 121.92 0)
+			(at 80.01 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2664,8 +2138,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "BC3483CT-ND"
-			(at -19.05 19.05 0)
+		(property "Digikey Part Number" "497-5896-5-ND"
+			(at 80.01 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2673,8 +2147,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
-			(at -19.05 19.05 0)
+		(property "Manufacturer_Name" "ST"
+			(at 80.01 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2682,17 +2156,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MBA02040C2401FC100"
-			(at -19.05 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C2401FC100/BC3483CT-ND/7350913"
-			(at -19.05 19.05 0)
+		(property "Manufacturer_Part_Number" "STP62NS04Z"
+			(at 80.01 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2701,15 +2166,18 @@
 			)
 		)
 		(pin "1"
-			(uuid "370d843d-1340-4255-a784-d7cb4454bdda")
+			(uuid "a06e8b85-fa42-46e4-b506-1d09866a4d79")
 		)
 		(pin "2"
-			(uuid "2f8eb752-1c97-4839-8267-83141f52dae6")
+			(uuid "fd518f17-528b-47ea-964f-dd399c4aa345")
+		)
+		(pin "3"
+			(uuid "8f1744ca-d35c-4ba8-852c-45c1d8f4c865")
 		)
 		(instances
 			(project "Speeduino_UFSC"
 				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "R11")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -2717,15 +2185,15 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 93.98 36.83 180)
+		(at 95.25 35.56 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5c7e9c07-f549-463c-896c-bab7e439e948")
+		(uuid "1c0ea304-7659-4a73-b2ad-3042919c5e41")
 		(property "Reference" "D3"
-			(at 94.1578 30.353 0)
+			(at 95.4278 29.083 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2733,7 +2201,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 94.1578 32.6644 0)
+			(at 95.4278 31.3944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2741,7 +2209,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 93.98 36.83 0)
+			(at 95.25 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2750,7 +2218,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 36.83 0)
+			(at 95.25 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2759,7 +2227,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 36.83 0)
+			(at 95.25 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2768,7 +2236,7 @@
 			)
 		)
 		(property "Digikey Part Number" "732-5005-ND"
-			(at 190.5 -7.62 0)
+			(at 191.77 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2777,7 +2245,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth"
-			(at 190.5 -7.62 0)
+			(at 191.77 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2786,7 +2254,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "151031SS04000"
-			(at 190.5 -7.62 0)
+			(at 191.77 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2795,7 +2263,7 @@
 			)
 		)
 		(property "URL" "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/151031SS04000/732-5005-ND/4489979"
-			(at 190.5 -7.62 0)
+			(at 191.77 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2804,10 +2272,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c1e0f19e-838b-48a9-be26-491d221e75bd")
+			(uuid "548b617e-7c09-4ef0-b217-99ec82c6e4fe")
 		)
 		(pin "2"
-			(uuid "b736cf1c-c318-410a-9238-68b60fefdad4")
+			(uuid "dfd0fc94-410d-422c-a378-de95e978946d")
 		)
 		(instances
 			(project "Speeduino_UFSC"
@@ -2819,81 +2287,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 59.69 41.91 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5c7eb5e5-4032-480a-86c6-834baaef5b10")
-		(property "Reference" "#PWR04"
-			(at 59.69 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 59.563 37.5158 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 59.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 59.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 59.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cebb4765-4ed3-4632-80e8-1d554aad31c1")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
-		(at 90.17 156.21 0)
+		(at 91.44 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5ec8456f-5fe4-4ee6-883b-0da78fd71085")
+		(uuid "22c4a331-e88c-47a5-bd0d-6bfa74cf5f98")
 		(property "Reference" "D2"
-			(at 89.9922 150.7236 0)
+			(at 91.2622 149.4536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2901,7 +2304,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 89.9922 153.035 0)
+			(at 91.2622 151.765 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2909,7 +2312,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 90.17 156.21 0)
+			(at 91.44 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2918,7 +2321,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 156.21 0)
+			(at 91.44 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2927,7 +2330,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 90.17 156.21 0)
+			(at 91.44 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2936,7 +2339,7 @@
 			)
 		)
 		(property "Digikey Part Number" "732-5005-ND"
-			(at -2.54 309.88 0)
+			(at -1.27 308.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2945,7 +2348,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth"
-			(at -2.54 309.88 0)
+			(at -1.27 308.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2954,7 +2357,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "151031SS04000"
-			(at -2.54 309.88 0)
+			(at -1.27 308.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2963,7 +2366,7 @@
 			)
 		)
 		(property "URL" "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/151031SS04000/732-5005-ND/4489979"
-			(at -2.54 309.88 0)
+			(at -1.27 308.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2972,10 +2375,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "10285c03-c5e6-47ce-b66e-883dd3ae27ce")
+			(uuid "e16c33fe-10e1-4302-9f1f-d1792b6eb3fe")
 		)
 		(pin "1"
-			(uuid "5696da49-0515-4292-a779-6a20ff5ffe04")
+			(uuid "47a405db-c570-45dd-a49a-0ed289113a20")
 		)
 		(instances
 			(project "Speeduino_UFSC"
@@ -2988,15 +2391,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 60.96 148.59 180)
+		(at 60.96 45.72 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6078c955-0456-4c10-a213-482aea1a501d")
-		(property "Reference" "R4"
-			(at 57.15 147.32 0)
+		(uuid "2d0495c5-f382-4e70-96d5-50ede798dae5")
+		(property "Reference" "R1"
+			(at 57.15 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3005,7 +2408,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 54.61 149.86 0)
+			(at 54.61 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3014,7 +2417,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 62.738 148.59 90)
+			(at 62.738 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3023,7 +2426,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 148.59 0)
+			(at 60.96 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3032,7 +2435,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 148.59 0)
+			(at 60.96 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3041,7 +2444,7 @@
 			)
 		)
 		(property "Digikey Part Number" "BC3240CT-ND"
-			(at 124.46 2.54 0)
+			(at 123.19 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3050,7 +2453,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 124.46 2.54 0)
+			(at 123.19 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3059,7 +2462,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "MBA02040C1003FCT00"
-			(at 124.46 2.54 0)
+			(at 123.19 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3068,423 +2471,24 @@
 			)
 		)
 		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C1003FCT00/BC3240CT-ND/6138743"
-			(at 124.46 2.54 0)
+			(at 123.19 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "86bc56bd-bb6e-4e12-be3e-565870b02f0a")
 		)
 		(pin "2"
-			(uuid "a2a235a7-899b-4ed2-be6c-5fa149deaa0e")
-		)
-		(pin "1"
-			(uuid "ecb7ba18-7b23-4e88-abce-fd3a71490d01")
+			(uuid "6439ac8b-579e-4d93-ba85-a4aaa7a9f486")
 		)
 		(instances
 			(project "Speeduino_UFSC"
 				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 83.82 156.21 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8bb8dea1-88b0-459b-b309-432513f534af")
-		(property "Reference" "#PWR09"
-			(at 77.47 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 80.5688 156.337 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 83.82 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 83.82 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 83.82 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7855929d-6362-49d7-b92e-c0de1302a350")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 90.17 121.92 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8e13650d-39e3-44dc-ab21-f181048c7c5b")
-		(property "Reference" "D1"
-			(at 89.9922 116.4336 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 89.9922 118.745 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 90.17 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 90.17 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 90.17 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "732-5005-ND"
-			(at -2.54 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Wurth"
-			(at -2.54 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "151031SS04000"
-			(at -2.54 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/151031SS04000/732-5005-ND/4489979"
-			(at -2.54 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c3413161-fe3e-4e73-ae99-ea541ab21d48")
-		)
-		(pin "2"
-			(uuid "6cc7569d-4127-45dc-b9e1-d514283422c9")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 60.96 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8ee327e3-6d0f-47f1-9c45-f90a976b6ab2")
-		(property "Reference" "#PWR07"
-			(at 60.96 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 61.087 158.0642 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 60.96 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "13391614-6bca-44ac-af1b-624534c6eb66")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 40.64 140.97 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "98de434c-348f-4785-909f-bde833be38ac")
-		(property "Reference" "#PWR03"
-			(at 34.29 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 37.3888 141.097 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 40.64 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4d005df6-3eb4-414a-af2d-b9103d75949a")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Q_NMOS_GDS")
-		(at 78.74 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9c2ebcd8-b315-46f6-adb5-161c037fe090")
-		(property "Reference" "Q1"
-			(at 83.9216 50.9016 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Q_NMOS_GDS"
-			(at 83.9216 53.213 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
-			(at 83.82 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 78.74 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 78.74 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "497-5896-5-ND"
-			(at 78.74 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "ST"
-			(at 78.74 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "STP62NS04Z"
-			(at 78.74 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9b5f44f8-4ff6-4064-ab69-a8943a2637d2")
-		)
-		(pin "2"
-			(uuid "6f53b49d-e414-4a92-9a0e-ee04e6d1cc5b")
-		)
-		(pin "3"
-			(uuid "e63fbf3c-9cb7-4d77-a4db-d46f9ef22ae6")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "Q1")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -3492,31 +2496,33 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 66.04 52.07 270)
+		(at 62.23 132.08 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a52a3fb9-a793-4182-80e3-8a97598a8a37")
-		(property "Reference" "R5"
-			(at 66.04 46.8122 90)
+		(uuid "36284fd5-d85b-440d-949f-f3b41bf35548")
+		(property "Reference" "R2"
+			(at 58.42 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "1k"
-			(at 66.04 49.1236 90)
+		(property "Value" "100k"
+			(at 55.88 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 66.04 50.292 90)
+			(at 64.008 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3525,7 +2531,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 52.07 0)
+			(at 62.23 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3534,7 +2540,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 52.07 0)
+			(at 62.23 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3542,8 +2548,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "BC1.00KXCT-ND"
-			(at 6.35 -16.51 0)
+		(property "Digikey Part Number" "BC3240CT-ND"
+			(at 125.73 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3552,7 +2558,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 6.35 -16.51 0)
+			(at 125.73 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3560,8 +2566,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MBA02040C1001FRP00"
-			(at 6.35 -16.51 0)
+		(property "Manufacturer_Part_Number" "MBA02040C1003FCT00"
+			(at 125.73 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3569,113 +2575,8 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
-			(at 6.35 -16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "75ea89c7-9d92-4b0e-9f8e-297974ed18f7")
-		)
-		(pin "2"
-			(uuid "8483057b-ae0a-4b7e-99ac-deb2e860bd38")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 121.92 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b2e46dc4-c1a6-40f5-ad4d-3cd0459a2ab7")
-		(property "Reference" "C2"
-			(at 124.841 135.9916 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 124.841 138.303 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 122.8852 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 121.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "445-180543-1-ND"
-			(at -2.54 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "TDK"
-			(at -2.54 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "FA18X7R1E105KRU06"
-			(at -2.54 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/tdk-corporation/FA18X7R1E105KRU06/445-180543-1-ND/9560669"
-			(at -2.54 271.78 0)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C1003FCT00/BC3240CT-ND/6138743"
+			(at 125.73 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3684,15 +2585,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "69b3c3b6-aeef-4e1f-9fa3-e8f8496bc8c0")
+			(uuid "d5ae504d-a358-4993-8911-d04d82413a8c")
 		)
 		(pin "2"
-			(uuid "b49e91ba-3cd7-425f-b6b2-b9255165a23d")
+			(uuid "459f1a1b-0e90-4a16-8b4a-ee0a40deb6aa")
 		)
 		(instances
 			(project "Speeduino_UFSC"
 				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "C2")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -3700,15 +2601,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 133.35 90)
+		(at 62.23 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b9d5da85-45a4-4391-a311-4a8288350de9")
-		(property "Reference" "#PWR012"
-			(at 130.81 133.35 0)
+		(uuid "46dc1664-6648-43bd-86e8-99d94924a837")
+		(property "Reference" "#PWR06"
+			(at 62.23 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3717,16 +2618,15 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127.7112 133.223 90)
+			(at 62.357 156.7942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 133.35 0)
+			(at 62.23 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3735,7 +2635,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 133.35 0)
+			(at 62.23 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3744,7 +2644,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 133.35 0)
+			(at 62.23 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3753,115 +2653,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "5013ee87-c223-4064-935f-7575245045a7")
+			(uuid "5f3c10d8-e557-4f48-8f21-ecee6a98a45f")
 		)
 		(instances
 			(project "Speeduino_UFSC"
 				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 105.41 36.83 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c3da4894-8045-4d29-aab6-908bcf3b66bb")
-		(property "Reference" "D5"
-			(at 105.41 31.3436 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 105.41 33.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 105.41 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 105.41 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "1N914TAPGICT-ND"
-			(at 213.36 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 213.36 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "1N914TAP"
-			(at 213.36 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-general-semiconductor-diodes-division/1N914TAP/1N914TAPGICT-ND/8564478"
-			(at 213.36 -7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "821fccca-f74e-4883-b51e-c262d134cdbc")
-		)
-		(pin "1"
-			(uuid "661d6758-e191-438a-9b89-f8deff40737b")
-		)
-		(instances
-			(project "Speeduino_UFSC"
-				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "D5")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3869,23 +2666,23 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 67.31 138.43 270)
+		(at 85.09 35.56 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "cdea7bc5-f479-41a4-9c87-9bad026a7d38")
+		(uuid "55852b60-8acc-47ef-a96f-07848b8ed5b7")
 		(property "Reference" "R7"
-			(at 67.31 133.1722 90)
+			(at 85.09 30.3022 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1k"
-			(at 67.31 135.4836 90)
+		(property "Value" "2.4k"
+			(at 85.09 32.6136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3893,7 +2690,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 67.31 136.652 90)
+			(at 85.09 33.782 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3902,7 +2699,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 138.43 0)
+			(at 85.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3911,7 +2708,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 138.43 0)
+			(at 85.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3919,8 +2716,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "BC1.00KXCT-ND"
-			(at -68.58 68.58 0)
+		(property "Digikey Part Number" "BC3483CT-ND"
+			(at 40.64 -50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3929,7 +2726,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at -68.58 68.58 0)
+			(at 40.64 -50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3937,8 +2734,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MBA02040C1001FRP00"
-			(at -68.58 68.58 0)
+		(property "Manufacturer_Part_Number" "MBA02040C2401FC100"
+			(at 40.64 -50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3946,8 +2743,8 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
-			(at -68.58 68.58 0)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C2401FC100/BC3483CT-ND/7350913"
+			(at 40.64 -50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3956,10 +2753,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "bfef0d46-4f8d-465f-86d0-8c3e0604d039")
+			(uuid "992d03ca-530e-4732-96d2-4d879e9abb5d")
 		)
 		(pin "2"
-			(uuid "e837998e-73b8-4723-80a0-0438aa5b90a3")
+			(uuid "b62b41e5-46e5-49b7-89ce-a2f07ca59287")
 		)
 		(instances
 			(project "Speeduino_UFSC"
@@ -3972,15 +2769,15 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 124.46 140.97 270)
+		(at 125.73 139.7 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ddfbc06f-dbf0-44ef-ab8d-1c04a6e242eb")
-		(property "Reference" "#PWR05"
-			(at 120.65 140.97 0)
+		(uuid "59c175b1-4507-430d-bdf2-9813a47215fa")
+		(property "Reference" "#PWR011"
+			(at 121.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3989,7 +2786,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 127.7112 141.4018 90)
+			(at 128.9812 140.1318 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3998,7 +2795,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 140.97 0)
+			(at 125.73 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4007,7 +2804,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 140.97 0)
+			(at 125.73 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4016,7 +2813,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 140.97 0)
+			(at 125.73 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4025,7 +2822,72 @@
 			)
 		)
 		(pin "1"
-			(uuid "a53a7d97-5b4e-435d-b028-8b8221f07d70")
+			(uuid "3ea0cc10-fac1-4111-b96b-285ceee2bae7")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 62.23 127 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6b81205d-e1d7-449e-8ff6-e36460b9653c")
+		(property "Reference" "#PWR05"
+			(at 62.23 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 62.103 122.6058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "51ac2db1-f8a2-4006-bad9-48df9d8cfe86")
 		)
 		(instances
 			(project "Speeduino_UFSC"
@@ -4038,15 +2900,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 110.49 137.16 0)
+		(at 123.19 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e4aeadc6-621f-4d60-b6cc-0facdb604241")
-		(property "Reference" "C1"
-			(at 113.411 135.9916 0)
+		(uuid "70b7ecae-424d-42df-b52d-8dcd7a586805")
+		(property "Reference" "C2"
+			(at 126.111 134.7216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4054,8 +2916,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 113.411 138.303 0)
+		(property "Value" "1uF"
+			(at 126.111 137.033 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4064,7 +2926,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 111.4552 140.97 0)
+			(at 124.1552 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4073,7 +2935,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 110.49 137.16 0)
+			(at 123.19 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4082,7 +2944,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 137.16 0)
+			(at 123.19 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4090,8 +2952,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "445-180563-1-ND"
-			(at -2.54 271.78 0)
+		(property "Digikey Part Number" "445-180543-1-ND"
+			(at -1.27 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4100,7 +2962,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "TDK"
-			(at -2.54 271.78 0)
+			(at -1.27 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4108,8 +2970,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FA18X8R1E104KNU06"
-			(at -2.54 271.78 0)
+		(property "Manufacturer_Part_Number" "FA18X7R1E105KRU06"
+			(at -1.27 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4117,8 +2979,8 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/tdk-corporation/FA18X8R1E104KNU06/445-180563-1-ND/9560689"
-			(at -2.54 271.78 0)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/tdk-corporation/FA18X7R1E105KRU06/445-180543-1-ND/9560669"
+			(at -1.27 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4127,10 +2989,452 @@
 			)
 		)
 		(pin "1"
-			(uuid "04da0fc7-e667-4278-be64-aa8f8f6f6758")
+			(uuid "bd4758e5-edf6-49ac-af35-d2980919729c")
 		)
 		(pin "2"
-			(uuid "96687136-0d6f-4e1f-8893-87eb6f528bfe")
+			(uuid "435da7e6-5caf-4d87-b276-bdc7abda9674")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 85.09 120.65 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "81ccb451-0124-41ed-bb04-d3e9aaf5c9ad")
+		(property "Reference" "#PWR07"
+			(at 78.74 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 81.8388 120.777 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53dca3dd-0b93-4490-8aa2-4e084bf92156")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 60.96 40.64 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8b65aa91-bdf4-4287-a79e-d9772ee4be0d")
+		(property "Reference" "#PWR04"
+			(at 60.96 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 60.833 36.2458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "722fe69d-ae79-4489-835b-681e960b8962")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 68.58 137.16 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d566497-df37-4cd3-9880-6004750d85d9")
+		(property "Reference" "R5"
+			(at 68.58 131.9022 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 68.58 134.2136 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 68.58 135.382 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 68.58 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 68.58 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "BC1.00KXCT-ND"
+			(at -67.31 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay"
+			(at -67.31 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MBA02040C1001FRP00"
+			(at -67.31 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
+			(at -67.31 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8f01aed4-2640-4604-b1f9-14c660b26a90")
+		)
+		(pin "2"
+			(uuid "e9f8487a-9bb4-40d7-8c55-0cb4478a3205")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 91.44 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93635592-35a0-4132-aa27-6fe427f8ce0c")
+		(property "Reference" "D1"
+			(at 91.2622 115.1636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 91.2622 117.475 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 91.44 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 91.44 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "732-5005-ND"
+			(at -1.27 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth"
+			(at -1.27 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "151031SS04000"
+			(at -1.27 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/151031SS04000/732-5005-ND/4489979"
+			(at -1.27 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a33715af-6d46-4348-bf3d-ae778b0c795b")
+		)
+		(pin "2"
+			(uuid "aafae59b-d13f-4992-a39f-89a66cb6d640")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 111.76 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "afe9d1a6-b814-49f9-9667-6e137e2f7d46")
+		(property "Reference" "C1"
+			(at 114.681 134.7216 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 114.681 137.033 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+			(at 112.7252 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "445-180563-1-ND"
+			(at -1.27 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at -1.27 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FA18X8R1E104KNU06"
+			(at -1.27 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/tdk-corporation/FA18X8R1E104KNU06/445-180563-1-ND/9560689"
+			(at -1.27 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "738a300a-8eb0-4d51-8efa-9b30bd19838a")
+		)
+		(pin "2"
+			(uuid "c0035491-a5e4-46db-8e2f-3fdf1ab24035")
 		)
 		(instances
 			(project "Speeduino_UFSC"
@@ -4142,32 +3446,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 83.82 36.83 270)
+		(lib_id "power:GND")
+		(at 41.91 139.7 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "f19134b5-ffb9-4dee-9ae5-c1312c0ff9a2")
-		(property "Reference" "R9"
-			(at 83.82 31.5722 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2.4k"
-			(at 83.82 33.8836 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 83.82 35.052 90)
+		(uuid "b7dec284-fb58-4e15-a16a-5e5e2d381f1e")
+		(property "Reference" "#PWR03"
+			(at 35.56 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4175,8 +3463,26 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 83.82 36.83 0)
+		(property "Value" "GND"
+			(at 38.6588 139.827 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 41.91 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4185,43 +3491,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "BC3483CT-ND"
-			(at 39.37 -49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 39.37 -49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MBA02040C2401FC100"
-			(at 39.37 -49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C2401FC100/BC3483CT-ND/7350913"
-			(at 39.37 -49.53 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4230,10 +3500,551 @@
 			)
 		)
 		(pin "1"
-			(uuid "e6d54e14-d22b-4122-8bc4-430a2442f270")
+			(uuid "5d91f070-0680-457e-afed-7bbee759048d")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 101.6 120.65 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b7ed2341-7042-4e25-96f4-fca689de1a9c")
+		(property "Reference" "R8"
+			(at 101.6 115.3922 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.4k"
+			(at 101.6 117.7036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 101.6 118.872 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "BC3483CT-ND"
+			(at -17.78 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay"
+			(at -17.78 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MBA02040C2401FC100"
+			(at -17.78 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C2401FC100/BC3483CT-ND/7350913"
+			(at -17.78 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8b6e62b1-2789-4e56-8a05-db5254a30e84")
 		)
 		(pin "2"
-			(uuid "d1c18192-dc87-4e94-b5f2-f20ded6fa4b4")
+			(uuid "6f72258a-fe97-4986-b8f8-92dfdeab54b0")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 67.31 50.8 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ba5daa3d-13c8-4c3a-8194-c2474f4de7ab")
+		(property "Reference" "R4"
+			(at 67.31 45.5422 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 67.31 47.8536 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 67.31 49.022 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 67.31 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 67.31 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "BC1.00KXCT-ND"
+			(at 7.62 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay"
+			(at 7.62 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MBA02040C1001FRP00"
+			(at 7.62 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
+			(at 7.62 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6ccd97b8-ac22-404e-8a27-5666331dc4a7")
+		)
+		(pin "2"
+			(uuid "8b883a18-2a04-4d0a-ab2a-36d9d26e9d43")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 125.73 132.08 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c035930d-9128-4e59-bcbe-f49057c99802")
+		(property "Reference" "#PWR010"
+			(at 132.08 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 128.9812 131.953 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 125.73 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "98826773-fa20-4618-bf6c-8b976101c99e")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 85.09 154.94 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2ab2467-b8a9-439d-af93-f4534ee87ca6")
+		(property "Reference" "#PWR08"
+			(at 78.74 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 81.8388 155.067 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 85.09 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ee643c3-3b22-4950-8f00-9eb1296350ae")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 106.68 35.56 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c3c9fa2b-1ae1-49fe-93ff-50c2dff4b56c")
+		(property "Reference" "D4"
+			(at 106.68 30.0736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D"
+			(at 106.68 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 106.68 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "1N914TAPGICT-ND"
+			(at 214.63 -8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay"
+			(at 214.63 -8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1N914TAP"
+			(at 214.63 -8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-general-semiconductor-diodes-division/1N914TAP/1N914TAPGICT-ND/8564478"
+			(at 214.63 -8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2e3854a3-df62-4569-9ac8-b69712762b72")
+		)
+		(pin "1"
+			(uuid "34d9f608-ffe8-4c82-8fc6-d3edb03a1a99")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 101.6 154.94 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ec86210e-a041-4f6d-b8d5-21b57a11ad0e")
+		(property "Reference" "R9"
+			(at 101.6 149.6822 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.4k"
+			(at 101.6 151.9936 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 101.6 153.162 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "BC3483CT-ND"
+			(at -52.07 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay"
+			(at -52.07 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MBA02040C2401FC100"
+			(at -52.07 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C2401FC100/BC3483CT-ND/7350913"
+			(at -52.07 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1c9ec7a-95fd-42d8-b00d-ca78ff231088")
+		)
+		(pin "2"
+			(uuid "fe651980-84d0-4dbc-94cc-584e0b16df54")
 		)
 		(instances
 			(project "Speeduino_UFSC"
@@ -4245,32 +4056,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 100.33 156.21 270)
+		(lib_id "power:GND")
+		(at 86.36 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "fc93cb5d-c59d-4b2c-b502-f3e07d259b2e")
-		(property "Reference" "R12"
-			(at 100.33 150.9522 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2.4k"
-			(at 100.33 153.2636 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 100.33 154.432 90)
+		(uuid "ee8acaf5-4a12-4853-9cec-ff1c4323403d")
+		(property "Reference" "#PWR09"
+			(at 92.71 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4278,8 +4073,26 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 100.33 156.21 0)
+		(property "Value" "GND"
+			(at 89.6112 55.753 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4288,43 +4101,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey Part Number" "BC3483CT-ND"
-			(at -53.34 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Vishay"
-			(at -53.34 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MBA02040C2401FC100"
-			(at -53.34 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C2401FC100/BC3483CT-ND/7350913"
-			(at -53.34 53.34 0)
+			(at 86.36 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4333,15 +4110,238 @@
 			)
 		)
 		(pin "1"
-			(uuid "68c3adc9-5d24-412c-bb0c-a0ed647b87b0")
-		)
-		(pin "2"
-			(uuid "226d938c-d6bb-4cdc-abb6-5222ecc85f03")
+			(uuid "e640725a-1e1e-4c96-97b3-37daf5e0bf65")
 		)
 		(instances
 			(project "Speeduino_UFSC"
 				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
-					(reference "R12")
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 62.23 147.32 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f20d0997-b442-432c-81f4-c7d2aef7b774")
+		(property "Reference" "R3"
+			(at 58.42 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100k"
+			(at 55.88 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+			(at 64.008 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "BC3240CT-ND"
+			(at 125.73 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay"
+			(at 125.73 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MBA02040C1003FCT00"
+			(at 125.73 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/vishay-beyschlag-draloric-bc-components/MBA02040C1003FCT00/BC3240CT-ND/6138743"
+			(at 125.73 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1145f3d7-95e9-463d-9cbe-2955e216fd67")
+		)
+		(pin "1"
+			(uuid "be9037f8-046c-4f50-ad97-d2bbecc74860")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IC_Automotive:TC4424A")
+		(at 104.14 167.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f3cff1f7-0937-4bca-99d5-61620140e301")
+		(property "Reference" "U1"
+			(at 88.265 126.619 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TC4424A"
+			(at 88.265 128.9304 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
+			(at 93.98 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part Number" "TC4424AVPA-ND"
+			(at 104.14 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Microchip"
+			(at 104.14 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TC4424AVPA"
+			(at 104.14 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com.au/product-detail/en/microchip-technology/TC4424AVPA/TC4424AVPA-ND/1098910"
+			(at 104.14 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7ea885d7-f28d-42c3-889a-d1d39b59b8ea")
+		)
+		(pin "1"
+			(uuid "e67da839-e805-4ae7-b7d0-b13a7bf37736")
+		)
+		(pin "3"
+			(uuid "1a9bfb1f-c2d9-4d8b-b751-e3445dd42bd1")
+		)
+		(pin "6"
+			(uuid "f1ddbc2f-5bdc-4550-9b00-14e415bb255e")
+		)
+		(pin "5"
+			(uuid "2691dfec-d021-498f-a0d4-e4004a19a24e")
+		)
+		(pin "4"
+			(uuid "9c2e7ef3-4675-4bfe-8447-df0389bdd7b4")
+		)
+		(pin "7"
+			(uuid "e97f4845-b7df-41b2-8b40-65b0efc2003e")
+		)
+		(pin "8"
+			(uuid "b338f029-c08f-4a28-b928-0d0d30e3b2d7")
+		)
+		(instances
+			(project "Speeduino_UFSC"
+				(path "/614db205-1ab0-4fd3-a1be-8e0a3c6e149e/e2c5385b-f323-4e8d-b1d6-ed6df97aab0c"
+					(reference "U1")
 					(unit 1)
 				)
 			)

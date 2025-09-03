@@ -5121,7 +5121,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "inputs.sch"
+		(property "Sheetfile" "inputs.kicad_sch"
 			(at 53.34 192.3546 0)
 			(effects
 				(font
@@ -5159,7 +5159,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "connector.sch"
+		(property "Sheetfile" "connector.kicad_sch"
 			(at 96.52 191.0846 0)
 			(effects
 				(font
@@ -5197,7 +5197,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "outputs.sch"
+		(property "Sheetfile" "outputs.kicad_sch"
 			(at 120.65 192.3546 0)
 			(effects
 				(font
@@ -5235,7 +5235,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Fuel_Ignition.sch"
+		(property "Sheetfile" "Fuel_Ignition.kicad_sch"
 			(at 26.67 192.3546 0)
 			(effects
 				(font
@@ -5273,7 +5273,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "proto.sch"
+		(property "Sheetfile" "proto.kicad_sch"
 			(at 139.7 192.3546 0)
 			(effects
 				(font
@@ -5311,7 +5311,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "power.sch"
+		(property "Sheetfile" "power.kicad_sch"
 			(at 74.93 192.3546 0)
 			(effects
 				(font
