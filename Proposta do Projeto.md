@@ -4,6 +4,8 @@ Projeto em Eletrônica II - 2025-2
 
 Leonardo Henrique Dill Bruxel - 22100857
 
+Mathis Augistin Billon - 945541
+
 ## Introdução
 
 Uma ECU (Engine Control Unit, Unidade de Controle do Motor) é um componente eletrônico responsável por gerenciar e controlar o funcionamento de um motor de combustão interna e das demais funções de um veículo. Ela monitora diversos sensores espalhados pelo veículo, processa essas informações e ajusta parâmetros como a mistura de combustível, o tempo de ignição, a admissão de ar, entre outros, para otimizar o desempenho do motor, melhorar a eficiência de combustível e reduzir as emissões de poluentes.
