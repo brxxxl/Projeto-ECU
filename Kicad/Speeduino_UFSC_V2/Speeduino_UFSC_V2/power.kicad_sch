@@ -832,7 +832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+		(property "Footprint" "Package_TO_SOT_SMD:TO-263-3_TabPin2"
 			(at 142.24 59.055 0)
 			(effects
 				(font
@@ -842,7 +842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2937.pdf"
 			(at 142.24 66.04 0)
 			(effects
 				(font
@@ -851,7 +851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "500-mA Low Dropout Regulator, TO-263"
 			(at 142.24 64.77 0)
 			(effects
 				(font
@@ -1156,7 +1156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 142.24 81.28 0)
 			(effects
 				(font
@@ -1222,7 +1222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 120.65 74.93 0)
 			(effects
 				(font
