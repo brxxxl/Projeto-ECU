@@ -2126,6 +2126,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 71.12) (xy 86.36 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "267d7ecd-08d0-4c24-8dee-5ae12f9ad3df")
+	)
+	(wire
+		(pts
 			(xy 232.41 134.62) (xy 229.87 134.62)
 		)
 		(stroke
@@ -2666,6 +2676,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 68.58) (xy 86.36 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f777aae9-76e9-4854-a2f0-fa30a0e73d8d")
+	)
+	(wire
+		(pts
 			(xy 214.63 58.42) (xy 223.52 58.42)
 		)
 		(stroke
@@ -2781,7 +2801,7 @@
 	)
 	(global_label "FAN-OUT"
 		(shape input)
-		(at 86.36 68.58 0)
+		(at 92.71 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2790,7 +2810,7 @@
 		)
 		(uuid "31392cf2-f4ea-48bb-84ab-ed6ae3186643")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.36 68.58 0)
+			(at 92.71 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2901,7 +2921,7 @@
 	)
 	(global_label "FUELPUMP-OUT"
 		(shape input)
-		(at 86.36 71.12 0)
+		(at 91.44 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2910,7 +2930,7 @@
 		)
 		(uuid "4127421b-fa8d-4313-a5c6-6241aa644ff8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.36 71.12 0)
+			(at 91.44 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)

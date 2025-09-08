@@ -2574,16 +2574,8 @@
 		(uuid "b5e6e398-b114-4818-bda5-3d451150132c")
 	)
 	(no_connect
-		(at 176.53 55.88)
-		(uuid "bc9c8d14-126a-45ab-b300-ecc2e0288806")
-	)
-	(no_connect
 		(at 176.53 129.54)
 		(uuid "c1a003af-7792-4b65-98bb-d12741836c56")
-	)
-	(no_connect
-		(at 176.53 58.42)
-		(uuid "c416fc8b-123c-4c5a-87cd-3ef40e6840d7")
 	)
 	(no_connect
 		(at 176.53 106.68)
@@ -2691,6 +2683,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 58.42) (xy 195.58 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34e6c108-eb83-431c-bdf5-acbcebe862a4")
+	)
+	(wire
+		(pts
 			(xy 101.6 129.54) (xy 110.49 129.54)
 		)
 		(stroke
@@ -2738,6 +2740,16 @@
 			(type default)
 		)
 		(uuid "4e577333-2f23-43d4-85fe-ac0987ed1cff")
+	)
+	(wire
+		(pts
+			(xy 176.53 55.88) (xy 195.58 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "509cc49b-aa86-49f2-a2ea-596ee4d914c2")
 	)
 	(wire
 		(pts
@@ -3008,6 +3020,17 @@
 			(type default)
 		)
 		(uuid "f7e27c1f-27d4-4c18-9d80-559380ffdd01")
+	)
+	(text "Pin 9 and 10 to change in the code"
+		(exclude_from_sim no)
+		(at 210.82 58.674 0)
+		(effects
+			(font
+				(size 2.2606 2.2606)
+			)
+			(justify left bottom)
+		)
+		(uuid "095b338b-b646-4bde-a939-779f7b1ab31a")
 	)
 	(global_label "MCU-D18"
 		(shape input)
@@ -3441,6 +3464,46 @@
 		(uuid "b7294b3d-9f19-4bae-b739-20e1d5e58c09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 88.9 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MCU-D10"
+		(shape input)
+		(at 195.58 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b813b207-72e0-4d2a-8ce3-6efc23e5d413")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.58 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MCU-D9"
+		(shape input)
+		(at 195.58 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c48085b1-5831-49f0-9a5c-52ab89900d12")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.58 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4129,7 +4192,7 @@
 		)
 	)
 	(sheet
-		(at 53.34 177.8)
+		(at 15.24 156.21)
 		(size 12.7 13.97)
 		(fields_autoplaced yes)
 		(stroke
@@ -4141,7 +4204,7 @@
 		)
 		(uuid "4753dec0-8754-48c0-9820-40383d8448c7")
 		(property "Sheetname" "Inputs"
-			(at 53.34 177.0884 0)
+			(at 15.24 155.4984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4150,7 +4213,7 @@
 			)
 		)
 		(property "Sheetfile" "inputs.kicad_sch"
-			(at 53.34 192.3546 0)
+			(at 15.24 170.7646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4167,7 +4230,7 @@
 		)
 	)
 	(sheet
-		(at 96.52 177.8)
+		(at 92.71 179.07)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -4179,7 +4242,7 @@
 		)
 		(uuid "53bbc4be-1ad8-4f43-9e2f-d857034da8fc")
 		(property "Sheetname" "Connector"
-			(at 96.52 177.0884 0)
+			(at 92.71 178.3584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4188,7 +4251,7 @@
 			)
 		)
 		(property "Sheetfile" "connector.kicad_sch"
-			(at 96.52 191.0846 0)
+			(at 92.71 192.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4205,7 +4268,7 @@
 		)
 	)
 	(sheet
-		(at 120.65 177.8)
+		(at 53.34 177.8)
 		(size 12.7 13.97)
 		(fields_autoplaced yes)
 		(stroke
@@ -4217,7 +4280,7 @@
 		)
 		(uuid "bb1fca0d-eae9-4ee0-81de-9e2dcfbdce43")
 		(property "Sheetname" "Outputs"
-			(at 120.65 177.0884 0)
+			(at 53.34 177.0884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4226,7 +4289,7 @@
 			)
 		)
 		(property "Sheetfile" "outputs.kicad_sch"
-			(at 120.65 192.3546 0)
+			(at 53.34 192.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4243,7 +4306,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 177.8)
+		(at 15.24 177.8)
 		(size 12.7 13.97)
 		(fields_autoplaced yes)
 		(stroke
@@ -4255,7 +4318,7 @@
 		)
 		(uuid "e2c5385b-f323-4e8d-b1d6-ed6df97aab0c")
 		(property "Sheetname" "Fuel & Ignition"
-			(at 26.67 177.0884 0)
+			(at 15.24 177.0884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4264,7 +4327,7 @@
 			)
 		)
 		(property "Sheetfile" "Fuel_Ignition.kicad_sch"
-			(at 26.67 192.3546 0)
+			(at 15.24 192.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4281,7 +4344,7 @@
 		)
 	)
 	(sheet
-		(at 139.7 177.8)
+		(at 128.27 177.8)
 		(size 13.97 13.97)
 		(fields_autoplaced yes)
 		(stroke
@@ -4293,7 +4356,7 @@
 		)
 		(uuid "f11677fd-e3fb-4072-8927-174ee104b339")
 		(property "Sheetname" "Proto Area"
-			(at 139.7 177.0884 0)
+			(at 128.27 177.0884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4302,7 +4365,7 @@
 			)
 		)
 		(property "Sheetfile" "proto.kicad_sch"
-			(at 139.7 192.3546 0)
+			(at 128.27 192.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4319,7 +4382,7 @@
 		)
 	)
 	(sheet
-		(at 74.93 177.8)
+		(at 53.34 156.21)
 		(size 12.7 13.97)
 		(fields_autoplaced yes)
 		(stroke
@@ -4331,7 +4394,7 @@
 		)
 		(uuid "f9c30e71-62fe-46e0-9e08-5838c4d0a628")
 		(property "Sheetname" "Power"
-			(at 74.93 177.0884 0)
+			(at 53.34 155.4984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4340,7 +4403,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 74.93 192.3546 0)
+			(at 53.34 170.7646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
